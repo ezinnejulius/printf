@@ -20,4 +20,4 @@
 #define CONVERT_UNSIGNED	2
 
 int _printf(const char *format, ...);
-#endif /*_MAIN_H_*/
+#endif "main.h"
